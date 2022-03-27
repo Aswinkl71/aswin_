@@ -16,6 +16,7 @@
     text-decoration: none;
     margin-right: 40px
 }
+
 .input-group input:focus {
     border: 1px solid blue
 }
@@ -57,35 +58,41 @@
         padding-top: 20px
     }
 }
- 
 
-.container1{
-  background-image: url(https://i.gifer.com/GtwT.gif);
+
+.container1 {
+    background-image: url(https://i.gifer.com/GtwT.gif);
     height: 600px;
     background-position: center;
     background-size: cover;
-   
+
 }
-.text-center{
+
+.text-center {
     color: #0080ff;
     font-family: sans-serif;
     font-weight: 600;
-} 
+}
 
 
-   
-.bird{
+
+.bird {
     background-image: url(https://c.tenor.com/OwP0Pmwbcr4AAAAj/birds-flying.gif);
 
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 125px;
-    
+
 
 }
 
-
+.my {
+    text-align: center;
+    font-weight: 600;
+    font-style: inherit;
+    font-family: sans-serif;
+}
 
 
 
